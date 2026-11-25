@@ -111,3 +111,14 @@ table{box-shadow:0 6px 18px rgba(6,30,61,.08)}
 .birdcv{position:absolute;inset:0;width:100%;height:100%;z-index:3;pointer-events:none}
 .pg{display:grid;gap:12px;grid-template-columns:repeat(auto-fill,minmax(260px,1fr))}
 .pg img,.pg video{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:12px;display:block;background:#000}
+.sub3{font-size:20px;color:var(--navy);margin:18px 0 14px}
+.card.deck .go{display:inline-block;margin-top:6px}
+.strandh{display:flex;align-items:center;gap:12px;font-size:22px;margin:34px 0 14px}
+.clist{display:grid;gap:16px;grid-template-columns:repeat(auto-fill,minmax(min(100%,420px),1fr))}
+.cl{background:#fff;border:1px solid var(--line);border-radius:14px;padding:18px 20px;box-shadow:0 2px 8px rgba(6,30,61,.06);border-top:4px solid var(--gold)}
+.clh{display:flex;align-items:center;gap:10px;margin-bottom:10px}
+.chipc{background:var(--navy);color:var(--gold);font-weight:800;border-radius:8px;padding:4px 10px;text-decoration:none}
+.meth{font-size:13px;color:var(--muted);font-weight:700}
+.cl .lab{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--blue);font-weight:700;margin-top:8px}
+.cl ul.q{margin:4px 0 0;padding-left:18px}.cl ul.q li{margin:4px 0;font-size:15.5px;font-weight:700;color:var(--ink)}
+.cl .mem{margin:4px 0 0;font-size:14px;color:var(--muted)}
